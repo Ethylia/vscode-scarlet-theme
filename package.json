@@ -4,6 +4,10 @@
 	"description": "Woo",
 	"version": "0.5.0",
 	"publisher": "Ethylia",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ethylia/vscode-scarlet-theme"
+	},
 	"engines": {
 		"vscode": "^1.13.0"
 	},
