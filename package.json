@@ -2,9 +2,9 @@
 	"name": "scarlet-theme",
 	"displayName": "Scarlet theme",
 	"description": "Woo",
-	"version": "0.5.1",
+	"version": "0.5.2",
 	"publisher": "Ethylia",
-    "icon": "scarletlogo.png",
+	"icon": "scarletlogo.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Ethylia/vscode-scarlet-theme"
