@@ -4,12 +4,13 @@
 	"description": "Woo",
 	"version": "0.5.1",
 	"publisher": "Ethylia",
+    "icon": "scarletlogo.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Ethylia/vscode-scarlet-theme"
 	},
 	"engines": {
-		"vscode": "^1.13.0"
+		"vscode": "^1.10.0"
 	},
 	"categories": [
 		"Themes"
